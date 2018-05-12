@@ -1,0 +1,32 @@
+_repo: Travelling-Sketches_44992
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44992-h/images/cover-image.jpg
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: ''
+gutenberg_issued: '2014-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44992'
+  lccn: '29022199'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Travel'
+tableOfContents: The family that goes abroad because it's the thing to do -- The man
+  who travels alone -- The unprotected female tourist -- The united Englishmen who
+  travel for fun -- The art tourist -- The tourist in search of knowledge -- The Alpine
+  Club man -- Tourists who don't like their travels.
+title: Travelling Sketches
+url: http://www.gutenberg.org/ebooks/44992
