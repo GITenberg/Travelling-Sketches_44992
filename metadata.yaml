@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/324
     wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44992#Travelling-Sketches
 gutenberg_issued: '2014-02-24'
 gutenberg_type: Text
 identifiers:
